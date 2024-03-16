@@ -1,0 +1,1 @@
+Este proyecto es el más completo que he realizado y es donde he implementado de mejor manera las tecnologías. Me gusta saber que aún tiene puntos de mejora, pues, me motivan a seguir aprendiendo y a la vez poder observar que lo que he aprendido con mis anteriores proyectos está dando fruto.
